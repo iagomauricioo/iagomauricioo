@@ -23,7 +23,7 @@ Tenho 19 anos e atualmente estou cursando Sistemas de Informação. Criei esse G
 
 
 ## 🚀 Sobre mim
-Eu sempre fui bastante curioso com relação às coisas em que tenho interesse e por isso desenvolvi uma boa autonomia para estudar de forma autônoma e aprender o que quero de forma ágil e fácil. Atualmente tenho bastante interesse na área de desenvolvimento back-end, porém, quando possível também estudo um pouco do front-end, afinal, é importante saber um pouco de cada coisa. Comecei a faculdade em 2023.1, e desde então já pude notar uma grande evolução de conhecimento com relação não só à programação (hard skills), mas também o desenvolvimento das soft skills como responsabilidade, comprometimento
+Eu sempre fui bastante curioso com relação às coisas em que tenho interesse e por isso desenvolvi uma boa autonomia para estudar de forma autônoma e aprender o que quero de forma ágil e fácil. Atualmente tenho bastante interesse na área de desenvolvimento back-end, porém, quando possível também estudo um pouco do front-end, afinal, é importante saber um pouco de cada coisa. Comecei a faculdade em 2023.1, e desde então já pude notar uma grande evolução de conhecimento com relação não só à programação (hard skills), mas também o desenvolvimento das soft skills como: responsabilidade, comprometimento
 colaboração, trabalho em equipe, pensamento crítico e resolução de conflitos.
 
 
