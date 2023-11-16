@@ -7,8 +7,6 @@
 
 Tenho 19 anos e atualmente estou cursando Sistemas de Informação. Criei esse GitHub para poder registrar meu aprendizado nas linguagens de programação em que estou estudando [atualmente: Java e Python]. 
 
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=iagomauricioo&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/iagomauricioo)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iagomauricioo&show_icons=true&count_public=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Iago Mauricio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagomauricioo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
