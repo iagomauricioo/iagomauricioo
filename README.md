@@ -3,7 +3,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Iago+Mauricio;I'm+19+years+old;I'm+from+Brazil;I'm+studying+information+systems+at+CESMAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Iago+Mauricio;Tenho+19+anos+;E+curso+sistemas+de+informação+no+CESMAC;)](https://git.io/typing-svg)
 
 Tenho 19 anos e atualmente estou cursando Sistemas de Informação. Criei esse GitHub para poder registrar meu aprendizado nas linguagens de programação em que estou estudando [atualmente: Java e Python]. 
 
