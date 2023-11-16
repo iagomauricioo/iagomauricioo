@@ -24,7 +24,7 @@ Eu sempre fui bastante curioso com relação às coisas em que tenho interesse e
 
 ## 🔗 Links p/ redes sociais
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagomauricioo/)
-[!Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iagomauricioo/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iagomauricioo/)
 
 
 
