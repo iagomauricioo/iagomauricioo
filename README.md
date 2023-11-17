@@ -1,7 +1,7 @@
 
 # Bem-vindo! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&fontSize=90" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Iago+Mauricio;Tenho+19+anos+;E+curso+sistemas+de+informação+no+CESMAC;)](https://git.io/typing-svg)
 
