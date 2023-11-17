@@ -49,5 +49,3 @@ colaboração, trabalho em equipe, pensamento crítico e resolução de conflito
  - [Landing page com HTML e CSS](https://github.com/iagomauricioo/landing-page.git)
  - [Sistema de login utilizando Python (com interface gráfica utilizando a Lib TkInter)](https://github.com/iagomauricioo/Projeto_Lab2.git)
    
-
-![Snake animation](https://github.com/iagomauricioo/iagomauricioo/blob/output/github-contribution-grid-snake.svg)
