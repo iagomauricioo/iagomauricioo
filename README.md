@@ -2,6 +2,7 @@
 # Bem-vindo! 👋
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Iago+Mauricio;Tenho+19+anos+;E+curso+sistemas+de+informação+no+CESMAC;)](https://git.io/typing-svg)
 
