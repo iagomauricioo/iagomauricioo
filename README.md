@@ -39,7 +39,7 @@ colaboração, trabalho em equipe, pensamento crítico e resolução de conflito
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagomauricioo/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iagomauricioo/)
 
-![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&icon_color=fff\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorraraujo\&show_icons=true\&icon_color=fff\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 
 ## 🔗 Links p/ projetos feitos por mim
