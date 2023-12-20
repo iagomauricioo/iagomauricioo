@@ -23,8 +23,7 @@ Tenho 19 anos e atualmente estou cursando Sistemas de Informação. Criei esse G
   <img align="center" alt="Iago-CSS" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Iago-IntelliJ IDEA" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
   <img align="center" alt="Iago-Git" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Iago-GitHub" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-  <i align="center" alt="Iago-GitHub" height="70" width="90" class="devicon-github-original-wordmark"></i>        
+  <img align="center" alt="Iago-GitHub" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">  
   <img align="center" alt="Iago-MySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Iago-SQLite3" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
           
