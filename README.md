@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Iago+Mauricio;Tenho+19+anos+;E+curso+sistemas+de+informação+no+CESMAC;)](https://git.io/typing-svg)
 
-Tenho 19 anos e atualmente estou cursando Sistemas de Informação. Criei esse GitHub para poder registrar meu aprendizado nas linguagens de programação em que estou estudando [atualmente: Java e Python]. 
+Tenho 19 anos e atualmente estou cursando Sistemas de Informação. Criei esse GitHub para poder registrar meu aprendizado nas linguagens de programação em que estou estudando [atualmente: Java]. 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iagomauricioo&show_icons=true&count_public=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Iago Mauricio github stats" /> 
