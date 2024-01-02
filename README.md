@@ -48,7 +48,7 @@ colaboração, trabalho em equipe, pensamento crítico e resolução de conflito
 ## 🔗 Links p/ projetos feitos por mim
 
  - [Sistema de Xadrez feito em JAVA (em desenvolvimento)](https://github.com/iagomauricioo/projeto_sistema_xadrez_java.git)
- - [Projeto Web Api com Java Spring boot](https://github.com/iagomauricioo/API-Rest-Java)
+ - [Projeto Web Api com Java Spring boot](https://github.com/iagomauricioo/api-java)
  - [Transformador de arquivos .XML p/ planilhas excel feito em PYTHON](https://github.com/iagomauricioo/TransformadorXLSX)
  - [Sistema de login utilizando Python (com interface gráfica utilizando a Lib TkInter)](https://github.com/iagomauricioo/Projeto_Lab2.git)
    
