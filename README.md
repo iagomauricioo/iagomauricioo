@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Back-end<br>🧑🏻‍🔧 Python developer at @CNPq<br>📲  Ambassador at (@RogaDX)[https://rogadx.com] 2024 (Coupon IAGOROGAEMB for 10% discount)</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Back-end<br>🧑🏻‍🔧 Python developer at @CNPq<br>📲  Ambassador at <a href="https://rogadx.com">@RogaDX 2024</a> (Coupon IAGOROGAEMB for 10% discount)</p>
 
 ###
 
