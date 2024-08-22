@@ -1,16 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">E aí 👋 beleza?</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">My name is Iago, <br>I'm a back-end developer with proficiency in Java (but I know how to do front-end too hahah), <br>19 years old, <br>Brazilian and live in Maceió - AL.</p>
+<p align="left">Meu nome é Iago, <br>Sou desenvolvedor back-end com conhecimentos em Java (mas sei desenvolver front-end também hahhaha), <br>19 anos, <br>brasileiro e moro em Maceió - AL.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Back-end<br>🧑🏻‍🔧 Python developer at @CNPq<br>📲  Ambassador at <a href="https://rogadx.com">@RogaDX 2024</a> (Coupon IAGOROGAEMB for 10% discount)</p>
+<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estudando back end<br>🧑🏻‍🔧 Desenvolvedor Python no @CNPq<br>📲  Embaixador do <a href="https://rogadx.com">@RogaDX 2024</a> (Cupom IAGOROGAEMB para garantir 10% de desconto)</p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu programo em</h2>
 
 ###
 
@@ -86,11 +86,11 @@
 
 ###
 
-<h2 align="left">Musical taste :P</h2>
+<h2 align="left">Músicas :P</h2>
 
 ###
 
-<p align="left">I listen to a lot of rock, pagode, rap, trap, funk, forró, samba. In short, I'm eclectic hahahah</p>
+<p align="left">E escuto bastante rock, pagode, rap, trap, funk, forró, samba. Resumindo, sou eclético hahahah</p>
 
 ###
 
