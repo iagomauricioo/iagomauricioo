@@ -86,11 +86,7 @@
 
 ###
 
-<h2 align="left">Músicas :P</h2>
-
-###
-
-<p align="left">E escuto bastante rock, pagode, rap, trap, funk, forró, samba. Resumindo, sou eclético hahahah</p>
+<h2 align="left">🎵</h2>
 
 ###
 
