@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Meu nome é Iago, <br>Sou desenvolvedor back-end com conhecimentos em Java (mas sei desenvolver front-end também hahhaha), <br>20 anos, <br>brasileiro e moro em Maceió - AL.</p>
+<p align="left">Meu nome é Iago, <br>Sou desenvolvedor fullstack, <br>20 anos, <br>brasileiro e moro em Maceió - AL.</p>
 
 ###
 
