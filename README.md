@@ -11,7 +11,12 @@
 - 🎯 Desenvolvedor Fullstack com foco em Java, Spring, JSF e Angular
 - 💼 Atualmente trabalhando na @FIESC (SENAI Soluções Digitais)
 - 🌱 Sempre em busca de novos desafios e aprendizado
+- ☁️ AWS Cloud Practitioner Certified
 
+<div align="center">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="558ffdc7-8c7e-481c-b1fd-bb2f29f64202" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
 
 <img align="right" height="150" src="https://i.imgflip.com/9kv8l6.jpg"  />
 
