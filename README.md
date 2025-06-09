@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Iago, <br>20 anos,<br>Desenvolvedor Fullstack (Java, Spring, JSF e Angular)<br>☕💻☕💻☕💻</h4>
+<h4 align="left">Iago, <br>20 anos,<br>Desenvolvedor Fullstack (Java, Spring, JSF e Angular)<br>Atualmente trabalho na @FIESC (Federação das Indústria do Estado de Santa Catarina)<br>Mais especificamente no SENAI Soluções Digitais☕💻☕💻☕💻</h4>
 
 ###
 
