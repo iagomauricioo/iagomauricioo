@@ -14,8 +14,9 @@
 - ☁️ AWS Cloud Practitioner Certified
 
 <div align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="558ffdc7-8c7e-481c-b1fd-bb2f29f64202" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/558ffdc7-8c7e-481c-b1fd-bb2f29f64202/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="150"/>
+  </a>
 </div>
 
 <img align="right" height="150" src="https://i.imgflip.com/9kv8l6.jpg"  />
